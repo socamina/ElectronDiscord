@@ -5,7 +5,7 @@ const robot = require("robotjs");
 
 class DiscordBotController {
   constructor(
-    token = "ODAyOTM0Mjc2ODQ4MjIyMjQ4.YA2c0Q.mcqsAjhjm3TiC7WK79s2QrD8Otg"
+    token = "ODE1ODYyOTU1ODU3NTQzMTcw.YDyllg.xSWyNgSvH-YfjrgFqR3jVzoRTsQ"
   ) {
     this.token = token;
     this.client = new Client();
